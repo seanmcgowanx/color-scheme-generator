@@ -1,0 +1,63 @@
+body {
+    padding: 150px;
+    background-color: black;
+}
+#copy-message {
+    height: 0px;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.custom-container {
+    background-color: #1F2937;
+    border: 1px solid #D1D5DB;
+    color: #D5D4D8;
+    font-family: "Inter", sans-serif;
+    max-width: 550px;
+}
+
+.color-menu {
+    height: 90px;
+    padding: 22px 15px;
+}
+
+.custom-select {
+    height: 97%;
+    cursor: pointer;
+    background-color: #1F2937;
+    border: 1px solid #D1D5DB;
+    color: #D1D5DB;
+    border-radius: 5px;
+    padding: 9px;
+}
+
+.color-picker {
+    height: 100%;
+    padding: 3px 3px;
+    background-color: #D1D5DB;
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #3D4B60;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 0.77rem;
+}
+
+.btn:hover {
+    background-color: #3D4B60;
+    opacity: 80%;
+}
+
+.color-container {
+    height: 395px;
+    cursor: copy;
+}
+
+.hex-value-container {
+    height: 45px;
+    text-align: center;
+    padding: 10px;
+}
