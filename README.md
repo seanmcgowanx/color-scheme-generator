@@ -42,9 +42,9 @@ Simply open the `index.html` file in your favorite browser to start using the co
 - Google Fonts
 - The Color API
 
-## Screenshots
+## Live Demo
 
-*Include some screenshots of your application here.*
+[click here](https://65ef6e4d6c955e108cdd891d--fastidious-souffle-b56e17.netlify.app/)
 
 ## Contributing
 
